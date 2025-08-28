@@ -10,5 +10,5 @@
 - [Connecting from a Mac](/.Connecting%20from%20a%20Mac.md)
 
 # Using Windows to connect to your virtual machine
-- [Connecting from Windows](/.Connecting%20from%20Windows.md)
+- [Connecting from Windows](./Connecting%20from%20Windows.md)
 - If for some reaosn the PEM file does not have the right permissions, you can use the following URL to set them via the PowerShell: https://medium.com/codebyte/run-ssh-command-directly-in-windows-powershell-ca622f0d60fd
