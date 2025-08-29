@@ -4,7 +4,7 @@ Connecting from Windows
 
 At the command prompt, type the following command which assumes your .pem file was downloaded to the ~/Downloads folder, use your .pem file name and your IP address
 
-ssh -I ~/Downloads/manrique.pem linux1@148.100.76.36
+ssh -i ~/Downloads/manrique.pem linux1@148.100.76.36
 
 <img width="975" height="522" alt="image" src="https://github.com/user-attachments/assets/aecfb42f-3073-49af-87e0-3569400d18d4" />
 
